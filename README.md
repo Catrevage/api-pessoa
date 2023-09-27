@@ -14,7 +14,7 @@
   </ul>
 
   <h2>Como Rodar a Aplicação</h2>
-  <p>Basta baixar o arquivo .jar <a href="https://drive.google.com/file/d/15z_onJutDyuU33GYvLfo7e_3EWJhl6jg/view?usp=sharing">clicando aqui</a>, executar com java (java -jar <nome do arquivo>.jar) e acessar pelo navegador pelo
+  <p>Basta baixar o arquivo .jar <a href="https://drive.google.com/file/d/15z_onJutDyuU33GYvLfo7e_3EWJhl6jg/view?usp=sharing" target="_blank">clicando aqui</a>, executar com java (java -jar <nome do arquivo>.jar) e acessar pelo navegador pelo
     endereço http://localhost:8080/swagger-ui.html.</p>
     <p>Obs: Para executar o arquivo jar, é necessário ter o Java instalado.</p>
 
